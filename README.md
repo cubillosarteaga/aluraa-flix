@@ -31,9 +31,8 @@ Página desplegada: https://aluraa-flix.vercel.app/
 <p>Faltó la funcionalidad de mostrar el video registrado, registra datos en el formulario pero no lo publica</p>
 <img src="https://i.ibb.co/w64fsZc/Captura-de-pantalla-2024-07-05-221859.png">
 
-<iframe width="600" height = "420"
-src="https://www.youtube.com/embed/qKf2EwInKbA">
-</iframe>
+<img src="https://i.ibb.co/YZdBFt9/Screenshot-2024-07-05-at-23-58-03-dishonor-GIF.png">
+
 
 
 <p>Pero bueno, a seguir aprendiendo hasta que resulte!</p>
