@@ -29,9 +29,9 @@ Página desplegada: https://aluraa-flix.vercel.app/
 :construction: Proyecto en construcción :construction:
 </h4>
 <p>Faltó la funcionalidad de mostrar el video registrado, registra datos en el formulario pero no lo publica</p>
-https://i.ibb.co/w64fsZc/Captura-de-pantalla-2024-07-05-221859.png
+<img src="https://i.ibb.co/w64fsZc/Captura-de-pantalla-2024-07-05-221859.png">
+<img src="https://giphy.com/embed/S3fc12Dcn7idq">
 
-<iframe src="https://giphy.com/embed/S3fc12Dcn7idq" width="480" height="276" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/S3fc12Dcn7idq">via GIPHY</a></p>
 
 <p>Pero bueno, a seguir aprendiendo hasta que resulte!</p>
 
