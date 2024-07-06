@@ -8,7 +8,7 @@ background-repeat: no-repeat;
   margin: 0;
   max-width: 100%;
   background-size: cover;
-  background-image: url("./src/assets/banner.png");
+  background-image: url("https://i.ibb.co/XLmz2zw/banner.png");
   align-content: revert;
   align-items: end;
 `
@@ -96,7 +96,7 @@ const Banner = () => {
             aplicar todos los conocimientos adquiridos en la formación React.</TituloEstilizado>
             </SeccionUno>
             <SeccionDos>
-                <img src="./src/assets/player.png" alt="player" />
+                <img src="https://i.ibb.co/zbbCBmF/player.png" alt="player" />
             </SeccionDos>
             </ContainerEstilizado>
     </FigureEstilizada>
