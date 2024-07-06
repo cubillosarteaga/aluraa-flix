@@ -1,6 +1,6 @@
 # Alura-Flix
 
-https://i.ibb.co/CJzKM7q/Screenshot-2024-07-05-at-22-57-24-Alura-Flix.png
+<img src="https://i.ibb.co/CJzKM7q/Screenshot-2024-07-05-at-22-57-24-Alura-Flix.png">
 
 Página desplegada: https://aluraa-flix.vercel.app/
 
